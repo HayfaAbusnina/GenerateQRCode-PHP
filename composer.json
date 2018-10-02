@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpunit/php-timer": "^2.0",
+        "tecnickcom/tc-lib-barcode": "^1.15"
+    }
+}
