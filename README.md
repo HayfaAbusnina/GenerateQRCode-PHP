@@ -13,9 +13,7 @@ Steps:
 2- Open Command line, Install all development dependencies using Composer:
 
       composer require phpunit/php-timer
-      
-      require 'vendor/autoload.php'
-
+   
       composer require tecnickcom/tc-lib-barcode ^1.15
 
 3- Use attached Code
