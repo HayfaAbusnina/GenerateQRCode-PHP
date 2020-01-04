@@ -1,4 +1,4 @@
-# GenerateQRCode-PHP
+# Generate QRCode-PHP
 
 Pre-requests:
 
